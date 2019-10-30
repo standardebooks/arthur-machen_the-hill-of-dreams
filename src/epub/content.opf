@@ -33,10 +33,12 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100550</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONG_DESCRIPTION
-		]]></meta>
+		<dc:description id="description">A young man’s visions lead him into the life of an author.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;An ancient Roman hilltop fort proves an irresistible draw to Lucian Taylor, but what awaits at the top isn’t just a view of the surrounding Welsh landscape but a bacchal experience his young soul isn’t ready for. This experience sets his path as he attempts to transcribe his increasingly elaborate visions into the perfect book; the book that will actually mean something more than the banal novels he sees the publishing houses push out.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Hill of Dreams&lt;/i&gt; is a semi-autobiographical work, with Arthur Machen following a similar physical journey to the novel: a childhood in rural Wales followed by attempts to become an author in London. Machen was inspired by a review of &lt;i&gt;Tristram Shandy&lt;/i&gt; that described it as “a picaresque of the mind,” and determined to write “a &lt;a href="https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe"&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt;&lt;/a&gt; of the soul.” The protagonist’s isolation from the rest of society certainly resonates with that description.&lt;/p&gt;
+			&lt;p&gt;Machen wrote this ten years earlier than its original 1907 publication, it having been turned down by the publishers of the time. While it was mostly ignored on its initial release, it has picked up admirers over the years and is now viewed as one of Machen’s most important works.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13969</dc:source>
 		<dc:source>https://archive.org/details/hillofdreams00machiala</dc:source>
