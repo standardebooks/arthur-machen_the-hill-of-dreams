@@ -42,7 +42,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/13969</dc:source>
 		<dc:source>https://archive.org/details/hillofdreams00machiala</dc:source>
 		<meta property="se:production-notes">The introduction is titled “Introduction” as per the source scans, but is actually a preface sematically (according to Z39.98 document sections: https://www.daisy.org/z3998/2012/vocab/structure/#h_document-sections)</meta>
-		<meta property="se:word-count">68919</meta>
+		<meta property="se:word-count">68912</meta>
 		<meta property="se:reading-ease.flesch">60.79</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hill_of_Dreams</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-machen_the-hill-of-dreams</meta>
